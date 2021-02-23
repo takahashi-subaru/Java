@@ -13,8 +13,8 @@ public class Task1_4 {
 
     // 定数（アカウント情報）
     // ① 登録されている名前（USER_RNAME）とパスワード（USER_PASSWORD）を定数で定義してください。
-    private static final String USER_RNAME = "alice";
-    private static final String USER_PASSWORD = "pass";
+    private static final String USER_RNAME = "yuya";
+    private static final String USER_PASSWORD = "yuya0511";
 
     // 定数（メッセージ）
     private static final String CONST_MSG_SUCCESS = "ログイン成功です。";
