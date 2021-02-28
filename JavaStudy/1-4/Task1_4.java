@@ -13,8 +13,8 @@ public class Task1_4 {
 
     // 定数（アカウント情報）
     // ① 登録されている名前（USER_RNAME）とパスワード（USER_PASSWORD）を定数で定義してください。
-    private static final String USER_RNAME = "yuya";
-    private static final String USER_PASSWORD = "yuya0511";
+    private static final String USER_RNAME = "alice";
+    private static final String USER_PASSWORD = "pass";
 
     // 定数（メッセージ）
     private static final String CONST_MSG_SUCCESS = "ログイン成功です。";
@@ -31,8 +31,8 @@ public class Task1_4 {
     public static void main(String[] args) {
         // 以下の変数「name（名前）」「pass（パスワード）」を使用して、②〜⑤の条件を満たす処理を記述してください。
         // 名前とパスワードは画面からの入力値だと想定してみましょう。
-         String name = "alice";
-         String pass = "pass";
+         String name = "yuta";
+         String pass = "yuta0511";
 
         // ② 変数nameの値が「 alice 」、変数passの値が「 pass 」であった場合、「 ログイン成功です 」と出力してください。
         if (name.equals("alice") && pass.equals("pass")) {
