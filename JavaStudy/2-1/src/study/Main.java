@@ -26,13 +26,13 @@ public class Main {
 
         //③ arr 配列をループさせ、を行いなさい。
         //   要素が奇数の場合には「nは奇数です。」と出力されます。
-        for (int num = 0; num < arr.length; num++) { 
+        for (int num = 0; num < arr.length; num++) {
         	isOdd(num);
           }
         }
 
 
-    
+
 
     //② 関数を定義しなさい。
     //   関数名：getName
